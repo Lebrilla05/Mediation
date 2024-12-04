@@ -12,9 +12,9 @@ I'm Angelo Lebrilla, a 3rd year student of Samar State University taking Bachelo
 
 ## Objective
 
-The main objective of this project is to track my progress in developing the MEDIATION Mobile Application, which focuses on daily prayers, meditation, and contemplation. By setting clear milestones and deadlines, I aim to ensure that each phase of the development process, from planning to deployment, is well-structured and achievable. Monitoring progress in real-time will help me stay on track by keeping a clear overview of completed tasks, ongoing activities, and pending features. Regular evaluation of the app's functionality will ensure that core features, such as prayer guides and meditation tools, meet user needs effectively. Challenges encountered during the development process will be documented, allowing me to refine strategies and make necessary adjustments.
+The main objective of this project is to track my progress in developing the MEDIATION Mobile Application, which focuses on daily prayers, meditation, and contemplation. By setting clear milestones and deadlines, I aim to ensure that each phase of the development process, from planning to deployment, is well-structured and achievable. 
 
-## Skills
+## TIMELINE
 
 | TIME                                         | DESCRIPTION         |
 |-----------------------------------------------|----------------------------|
